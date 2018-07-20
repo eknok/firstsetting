@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+よく使う初期設定のレイアウト
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Deivse
+ - user model (Add name)
+ - bootstrap layouts
+ - 日本語化
+- Bootstrap
+ - navigator(application.scss, application.js)
+- Gemfile
+ - dotenv-rails
+ - database==postgresql
